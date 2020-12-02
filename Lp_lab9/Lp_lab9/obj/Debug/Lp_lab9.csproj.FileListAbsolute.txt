@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\Lp_lab9\Lp_lab9\bin\Debug\Lp_lab9.exe.config
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\Lp_lab9\Lp_lab9\bin\Debug\Lp_lab9.exe
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\Lp_lab9\Lp_lab9\bin\Debug\Lp_lab9.pdb
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\Lp_lab9\Lp_lab9\obj\Debug\Lp_lab9.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\Lp_lab9\Lp_lab9\obj\Debug\Lp_lab9.exe
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\Lp_lab9\Lp_lab9\obj\Debug\Lp_lab9.pdb
