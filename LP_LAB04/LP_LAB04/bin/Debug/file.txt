@@ -1,0 +1,2 @@
+rose:black:2
+rose:red:6
