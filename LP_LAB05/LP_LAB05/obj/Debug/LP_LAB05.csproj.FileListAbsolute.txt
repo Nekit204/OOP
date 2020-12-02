@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\obj\Debug\LP_LAB05.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\bin\Debug\LP_LAB05.exe.config
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\bin\Debug\LP_LAB05.exe
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\bin\Debug\LP_LAB05.pdb
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\obj\Debug\LP_LAB05.exe
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\obj\Debug\LP_LAB05.pdb

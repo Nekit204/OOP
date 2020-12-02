@@ -1,0 +1,11 @@
+________________________________________________________________________
+[31.37.2020 14:37:34.474] [   в LP_LAB05.Flower..ctor(String name, String color, Int32 col) в C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\Classes.cs:строка 51
+   в LP_LAB05.Program.Main(String[] args) в C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\Program.cs:строка 67..ctor()] Выдано исключение типа "LP_LAB05.NullException".
+
+________________________________________________________________________
+________________________________________________________________________
+[31.37.2020 14:37:34.546] [   в LP_LAB05.Plant..ctor(String color) в C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\Classes.cs:строка 22
+   в LP_LAB05.Flower..ctor(String name, String color, Int32 col) в C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\Classes.cs:строка 48
+   в LP_LAB05.Program.Main(String[] args) в C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB05\LP_LAB05\Program.cs:строка 94..ctor()] Выдано исключение типа "LP_LAB05.ColorException".
+
+________________________________________________________________________

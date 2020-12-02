@@ -1,0 +1,3 @@
+Rose,red,15.
+Gladiolus,white,14.
+Chamomile,white,12.
