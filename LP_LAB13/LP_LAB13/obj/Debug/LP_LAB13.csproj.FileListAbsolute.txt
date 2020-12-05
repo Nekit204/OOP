@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\bin\Debug\LP_LAB13.exe.config
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\bin\Debug\LP_LAB13.exe
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\bin\Debug\LP_LAB13.pdb
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\obj\Debug\LP_LAB13.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\obj\Debug\LP_LAB13.exe
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\obj\Debug\LP_LAB13.pdb
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\obj\Debug\LP_LAB13.Properties.Resources.resources
+C:\Users\User\Desktop\учеба\2 курс\ООТП\Лабораторные\LP_LAB13\LP_LAB13\obj\Debug\LP_LAB13.csproj.GenerateResource.cache
